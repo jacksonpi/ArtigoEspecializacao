@@ -11,6 +11,11 @@ Knuth, D.~E. (1984).
 \newblock {\em The {\TeX} Book}.
 \newblock Addison-Wesley, 15th edition.
 
+\bibitem[Pressman and Maxim 2016]{pressman2016engenharia}
+Pressman, R. and Maxim, B. (2016).
+\newblock {\em Engenharia de Software-8{\textordfeminine} Edi{\c{c}}{\~a}o}.
+\newblock McGraw Hill Brasil.
+
 \bibitem[Smith and Jones 1999]{smith:99}
 Smith, A. and Jones, B. (1999).
 \newblock On the complexity of computing.
